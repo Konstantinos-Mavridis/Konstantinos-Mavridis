@@ -13,6 +13,21 @@
 
 ---
 
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Konstantinos%20Mavridis-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/konstantinos-mavridis)
+
+---
+
+## ✍️ Writing & Thought Leadership
+
+I write about enterprise architecture, cloud-native engineering, and fintech systems.
+
+[![Medium](https://img.shields.io/badge/Medium-konstantinos--mavridis-12100E?style=flat&logo=medium&logoColor=white)](https://konstantinos-mavridis.medium.com)
+[![Substack](https://img.shields.io/badge/Substack-kmavridis-FF6719?style=flat&logo=substack&logoColor=white)](https://kmavridis.substack.com)
+
+---
+
 ## 🛠️ Tech Landscape
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -34,22 +49,3 @@
 | Project | What | Stack |
 |---|---|---|
 | [NavTrack](https://github.com/Konstantinos-Mavridis/NavTrack) | Real-time portfolio analytics engine | NestJS, Redis, PostgreSQL |
-
----
-
-## ✍️ Writing & Thought Leadership
-
-I write about enterprise architecture, cloud-native engineering, and fintech systems.
-
-[![Medium](https://img.shields.io/badge/Medium-konstantinos--mavridis-12100E?style=flat&logo=medium&logoColor=white)](https://konstantinos-mavridis.medium.com)
-[![Substack](https://img.shields.io/badge/Substack-kmavridis-FF6719?style=flat&logo=substack&logoColor=white)](https://kmavridis.substack.com)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Konstantinos%20Mavridis-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/konstantinos-mavridis)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Konstantinos-Mavridis&show_icons=true&theme=dark&hide_border=true)
