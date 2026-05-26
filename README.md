@@ -1,5 +1,5 @@
 # Konstantinos Mavridis
-### Solution Architect & Engineering Lead
+## Engineering Lead & Solution Architect
 
 > 18+ years delivering cloud-native systems and enterprise architecture.
 
