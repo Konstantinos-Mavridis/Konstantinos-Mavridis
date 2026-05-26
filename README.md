@@ -9,7 +9,6 @@
 
 - **Enterprise Architecture** — TOGAF ADM, capability modelling, roadmaps for regulated industries
 - **Cloud-Native Engineering** — Java / NestJS microservices, Kubernetes, event-driven systems
-- **Fintech Platforms** — NavTrack (portfolio analytics), NeuralLedger (AI-assisted ledger engine)
 - **Engineering Leadership** — Staff+ mentoring, cross-functional delivery, ADR-driven decisions
 
 ---
@@ -33,7 +32,6 @@
 | Project | What | Stack |
 |---|---|---|
 | [NavTrack](https://github.com/Konstantinos-Mavridis/NavTrack) | Real-time portfolio analytics engine | NestJS, Redis, PostgreSQL |
-| [NeuralLedger](https://github.com/Konstantinos-Mavridis/NeuralLedger) | AI-assisted financial ledger | NestJS, OpenAI, Kafka |
 
 ---
 
