@@ -7,9 +7,9 @@
 
 ## 🏛️ What I Do
 
-- **Enterprise Architecture** — TOGAF ADM, capability modelling, roadmaps for regulated industries
 - **Cloud-Native Engineering** — Java / NestJS microservices, Kubernetes, event-driven systems
 - **Engineering Leadership** — Staff+ mentoring, cross-functional delivery, ADR-driven decisions
+- **Enterprise Architecture** — TOGAF ADM, capability modelling, roadmaps for regulated industries
 
 ---
 
