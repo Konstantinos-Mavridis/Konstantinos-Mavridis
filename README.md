@@ -1,16 +1,54 @@
-### Hi there 👋
+# Konstantinos Mavridis — Solution Architect & Engineering Lead
 
-<!--
-**Konstantinos-Mavridis/Konstantinos-Mavridis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 18+ years delivering cloud-native systems, enterprise architecture, and fintech platforms across Europe.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏛️ What I Do
+
+- **Enterprise Architecture** — TOGAF ADM, capability modelling, roadmaps for regulated industries
+- **Cloud-Native Engineering** — Java / NestJS microservices, Kubernetes, event-driven systems
+- **Fintech Platforms** — NavTrack (portfolio analytics), NeuralLedger (AI-assisted ledger engine)
+- **Engineering Leadership** — Staff+ mentoring, cross-functional delivery, ADR-driven decisions
+
+---
+
+## 🛠️ Tech Landscape
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![TOGAF](https://img.shields.io/badge/TOGAF-Certified-blue?style=flat)
+
+---
+
+## 📌 Featured Work
+
+| Project | What | Stack |
+|---|---|---|
+| [NavTrack](https://github.com/Konstantinos-Mavridis/NavTrack) | Real-time portfolio analytics engine | NestJS, Redis, PostgreSQL |
+| [NeuralLedger](https://github.com/Konstantinos-Mavridis/NeuralLedger) | AI-assisted financial ledger | NestJS, OpenAI, Kafka |
+
+---
+
+## ✍️ Writing & Thought Leadership
+
+I write about enterprise architecture, cloud-native engineering, and fintech systems.
+
+[![Medium](https://img.shields.io/badge/Medium-konstantinos--mavridis-12100E?style=flat&logo=medium&logoColor=white)](https://konstantinos-mavridis.medium.com)
+[![Substack](https://img.shields.io/badge/Substack-kmavridis-FF6719?style=flat&logo=substack&logoColor=white)](https://kmavridis.substack.com)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Konstantinos%20Mavridis-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/konstantinos-mavridis)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Konstantinos-Mavridis&show_icons=true&theme=dark&hide_border=true)
