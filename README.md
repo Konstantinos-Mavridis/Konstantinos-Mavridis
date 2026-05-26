@@ -21,7 +21,7 @@
 
 ## ✍️ Writing & Thought Leadership
 
-I write about enterprise architecture, cloud-native engineering, and fintech systems.
+I write about cloud-native engineering and architecture.
 
 [![Medium](https://img.shields.io/badge/Medium-konstantinos--mavridis-12100E?style=flat&logo=medium&logoColor=white)](https://konstantinos-mavridis.medium.com)
 [![Substack](https://img.shields.io/badge/Substack-kmavridis-FF6719?style=flat&logo=substack&logoColor=white)](https://kmavridis.substack.com)
